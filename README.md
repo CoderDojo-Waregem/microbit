@@ -1,2 +1,6 @@
-# Microbit (opdrachten)
+---
+description: Dit is de omschrijving
+---
+
+# Microbit opdrachten
 

@@ -1,5 +1,5 @@
 # Table of contents
 
 * [Microbit opdrachten](README.md)
-* [Tweede pagina](uitleg.md)
+* [Opdracht 1](opdracht-1.md)
 

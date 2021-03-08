@@ -5,6 +5,6 @@
 ## Opdrachten
 
 * [Opdrachten](opdrachten/opdrachten/README.md)
-  * [Opdracht 1](opdrachten/opdrachten/tweede-pagina.md)
+  * [Opdracht 1](opdrachten/opdrachten/opdracht-1.md)
   * [Opdracht 2](opdrachten/opdrachten/opdracht-2.md)
 

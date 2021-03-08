@@ -1,5 +1,5 @@
 ---
-description: Dit is de omschrijving
+description: Dit is de beschrijving
 ---
 
 # Microbit opdrachten

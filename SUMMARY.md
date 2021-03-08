@@ -4,7 +4,10 @@
 
 ## Opdrachten
 
-* [Untitled](opdrachten/untitled/README.md)
-  * [Opdracht 1](opdrachten/untitled/tweede-pagina.md)
-  * [Opdracht 2](opdrachten/untitled/opdracht-2.md)
+* [Opdrachten](opdrachten/untitled.md)
+
+---
+
+* [Opdracht 1](tweede-pagina.md)
+* [Opdracht 2](opdracht-2.md)
 

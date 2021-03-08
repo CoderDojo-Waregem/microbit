@@ -25,5 +25,11 @@ echo 'You got to trust me on this, I saved the world'
 ```
 {% endcode %}
 
+{% code title="hello.py" %}
+```python
+# Ain't no code for that yet, sorry
+print('You got to trust me on this, I saved the world')
+```
+{% endcode %}
 
 
